@@ -1,0 +1,9 @@
+{
+  "name": "AFTERIMAGE",
+  "short_name": "AFTERIMAGE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070807",
+  "theme_color": "#070807",
+  "description": "Local anomaly investigation prototype"
+}
